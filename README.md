@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mitali 👋
 
-<!--
-**MitaliChoudhary90/MitaliChoudhary90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | MERN Stack | Building Scalable APIs
 
-Here are some ideas to get you started:
+Passionate about building real-world backend systems using Node.js, Express, and MongoDB. Recently worked on a full-fledged EV marketplace backend (inspired by CarDekho) – handling brands, vehicles, dealers, inventory, city-wise pricing, offers, analytics & more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Currently expanding skills in microservices, system design, and cloud deployments.
+
+💻 Always open to collaborate or discuss cool tech ideas!
+
+## Skills
+- **Programming Languages:** JavaScript, TypeScript, Python (learning AI/ML)
+- **Backend:** Node.js, Express.js, REST API, JWT, bcrypt.js, NPM
+- **Frontend:** HTML, CSS, Bootstrap
+- **Database:** MongoDB, Mongoose, MySQL, RDBMS
+- **Others:** Version Control, Postman, Chatbot Design (DialogFlow, Firebase), System Design
+
+Let’s connect and create something impactful!
